@@ -1,6 +1,6 @@
 # ComfyUI-MarkItDown
 
-This node pack helps to convert various files to Markdown. It is a Convenient comfyUI wrapper for Microsoft [markitdown](https://github.com/microsoft/markitdown) .
+This ComfyUI node pack helps to convert various files to Markdown. It is a convenient ComfyUI wrapper for Microsoft [markitdown](https://github.com/microsoft/markitdown) .
 
 ## Custom Nodes
 
