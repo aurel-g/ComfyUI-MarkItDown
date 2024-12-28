@@ -1,7 +1,7 @@
 [project]
 name = "markitdown"
 description = "This node pack helps to convert various files to Markdown. It supports pdf, pptx, xlsx, docx, html and image files."
-version = "1.0.0"
+version = "1.0.1"
 license = {file = "LICENSE"}
 dependencies = ["markitdown==0.0.1a3", "openai==1.58.1", "pythondotenv==1.0.1"]
 
