@@ -12,4 +12,4 @@ Repository = "https://github.com/ciga2011/ComfyUI-MarkItDown"
 [tool.comfy]
 PublisherId = ""
 DisplayName = "ComfyUI-MarkItDown"
-Icon = ""
+Icon = "https://raw.githubusercontent.com/ciga2011/ComfyUI-MarkItDown/main/logo.png"
